@@ -13,11 +13,6 @@ body {
     color: #443ae7;
   }
   
-  p {
-    /* font-family: 'Abril Fatface'; */
-    /* font-size: 40px; */
-  }
-  
   .navbar-logo {
     width: 15rem;
   }
@@ -94,4 +89,4 @@ body {
   }
   
   .filter-blue{
-         filter: invert(38%) sepia(100%) saturate(7496%) hue-rotate(246deg) brightness(95%) contrast(91%);
+         filter: invert(38%) sepia(100%) saturate(7496%) hue-rotate(246deg) brightness(95%) contrast(91%);}
